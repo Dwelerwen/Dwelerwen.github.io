@@ -184,6 +184,24 @@ ul[class=yellow] > li > a:hover {
   transition: all 0.5s;
 }
 
+
+p {
+	font-size: 10px;
+	padding : 10px;
+	color: #FFFFFF;
+}
+
+div[class=lovetext]{
+	font-family: Iosevka, monospace;
+	color: #0972D6;
+	display: block;
+	width:auto;
+	position:absolute;
+	left:430px;
+	font-size: 11px;
+}
+
+
 form {
 	position: relative;
 	width: auto;
