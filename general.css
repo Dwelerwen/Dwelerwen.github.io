@@ -219,8 +219,8 @@ form input[type="search"] {
 	box-sizing: content-box;
 	font: inherit;
 	font-size: 13px;
-	margin-left: 12px;
-	width: 85%;
+	margin-left: auto;
+	width: 100%;
 	color: #FEFFFA;
 	transition: all 0.2s;
 }	
