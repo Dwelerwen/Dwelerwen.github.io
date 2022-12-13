@@ -205,12 +205,12 @@ div[class=lovetext]{
 form {
 	position: relative;
 	width: auto;
-    left: auto;
-    right: auto;
-    margin: auto;
-    padding-left:175px;
+    	left: auto;
+    	right: auto;
+    	margin: auto;
+    	padding-left:175px;
 	padding-right:160px;
-	top: 15px;
+	top: 0px;
 }
 
 form input[type="search"] {
