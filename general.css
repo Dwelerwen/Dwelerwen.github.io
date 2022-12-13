@@ -216,7 +216,7 @@ form {
 form input[type="search"] {
 	background-color: var(--search-bg);
 	border: none;
-	box-sizing: border-box;
+	box-sizing: content-box;
 	font: inherit;
 	font-size: 13px;
 	margin-left: 12px;
