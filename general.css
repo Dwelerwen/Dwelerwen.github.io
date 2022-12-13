@@ -219,7 +219,8 @@ form input[type="search"] {
 	box-sizing: content-box;
 	font: inherit;
 	font-size: 13px;
-	margin-left: auto;
+	margin-left: 12px;
+	margin-top: 12px;
 	width: 85%;
 	color: #FEFFFA;
 	transition: all 0.2s;
